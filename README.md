@@ -44,10 +44,14 @@ A series of video loops
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/544323719?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PAINT"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Tools Used:
+
+
 VIDEO
+
 - [Hydra Video Synth](https://hydra.ojack.xyz/?sketch_id=celeste_1)
 - [DataMosh Deluxe by Destroy All Circuits](https://www.destroyallcircuits.com/)
 AUDIO
+
 - [Kastle Synth by Bastl Instruments](https://bastl-instruments.com/)
 - [littleBits Synth Kit](https://sphero.com/products/synth-kit?gclid=CjwKCAjwm7mEBhBsEiwA_of-THrKZPEIUAp12fyTV167L2u3iccx6eV7uRCSZYjdNFrixSZPzPMliRoC-tAQAvD_BwE)
 
