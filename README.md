@@ -61,3 +61,5 @@ AUDIO
 
 - [Kastle Synth by Bastl Instruments](https://bastl-instruments.com/)
 - [littleBits Synth Kit](https://sphero.com/products/synth-kit?gclid=CjwKCAjwm7mEBhBsEiwA_of-THrKZPEIUAp12fyTV167L2u3iccx6eV7uRCSZYjdNFrixSZPzPMliRoC-tAQAvD_BwE)
+
+**If you would rather view the works all in one video [click here](https://youtu.be/t9R9NYlH5-o)**
